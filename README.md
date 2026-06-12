@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Miguel Alves 👋
 
-<!--
-**Tonuxs/Tonuxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 TGPSI Student at Agrupamento de Escolas da Batalha
 
-Here are some ideas to get you started:
+📍 Leiria, Portugal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently building:
+
+Rivo AI – Educational platform powered by AI
+Web applications with React
+School programming projects
+
+🚀 Technologies:
+
+JavaScript
+React
+Supabase
+Node.js
+Python
+SQL
+C
+
+📚 Currently learning:
+
+Backend Development
+Artificial Intelligence
+Software Engineering
+
+🎯 Goal:
+
+Become an AI Engineer and build technology that helps people learn.
