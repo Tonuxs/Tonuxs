@@ -66,7 +66,7 @@ Current Stack:
 ## Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tonuxs&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Tonuxs&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
