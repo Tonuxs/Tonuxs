@@ -9,26 +9,16 @@
 
 ---
 
-## About Me
+## Sobre mim
 
 ```yaml
-Name: Miguel Alves
+Nome: Miguel Alves
 Username: Tonuxs
-Location: Portugal
-Education:
-  Software Engineering Student
-Focus:
-  - Artificial Intelligence
-  - Full Stack Development
-Current Stack:
-  - React
-  - Node.js
-  - Express
-  - Python
-  - PostgreSQL
+Localização: Portugal
+Formação: Software Engineering Student
+Foco: Artificial Intelligence · Full Stack Development
+Stack atual: React · Node.js · Express · Python · PostgreSQL
 ```
-
----
 
 ## Tech Stack
 
@@ -36,74 +26,52 @@ Current Stack:
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,vite,tailwind,nodejs,express,postgres,docker,git,github,linux,bash,vscode"/>
 </div>
 
----
-
-## GitHub Statistics
+## GitHub Stats
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tonuxs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonuxs&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
----
-
-## Contribution Streak
-
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Tonuxs&theme=tokyonight&hide_border=true"/>
 </div>
-
----
-
-## Activity Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tonuxs&theme=tokyo-night&hide_border=true"/>
 </div>
 
----
-
-## Achievements
-
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Tonuxs&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tonuxs&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
----
+## Projeto em destaque — Rivo AI
 
-## Featured Project
+Plataforma de aprendizagem com IA focada em ensino de programação.
 
-### Rivo AI
-An AI-powered learning platform focused on programming education.
-
-**Key Features**
-- AI Assistant
-- Monaco Code Editor
-- Docker Code Execution
+- Assistente de IA integrado
+- Editor de código Monaco
+- Execução de código em Docker
 - React + Node.js
-- Progress Tracking
+- Acompanhamento de progresso
 
----
+## Objetivos atuais
 
-## Current Goals
+- Construir aplicações de IA prontas para produção
+- Aprofundar conhecimento em Machine Learning
+- Contribuir para projetos open source
+- Tornar-se AI Engineer
 
-- Build production-ready AI applications
-- Deepen Machine Learning knowledge
-- Contribute to Open Source
-- Become an AI Engineer
-
----
-
-## Connect
+## Contacto
 
 <div align="center">
 <a href="mailto:miguelrosaalves2007@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/miguel-alves-se/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="https://discord.com/users/YOUR_ID">
+<a href="https://discord.com/users/tonaa__42418">
 <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 </div>
